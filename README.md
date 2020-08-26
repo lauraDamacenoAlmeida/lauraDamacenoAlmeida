@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**lauraDamacenoAlmeida/lauraDamacenoAlmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+:computer: Estagiando na área de ciência de dados | Cofundadora da comunidade AI Girls :robot: :sparkling_heart: | Organizadora da comunidade DevAI Women :yellow_heart: | Pyladie de coração 
 
-Here are some ideas to get you started:
+:books: Estudando ciência da computação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:cupid: Apaixonada por Inteligência Artificial + Python + Ciência de Dados + Machine Learning
+
+:purple_heart: Amo GOT (Winter is coming, baby!), star wars :alien: , Space Force, e todas as coisas geeks que você imaginar :joy:
+
+Não vivo sem Café!! :coffee: :heart_eyes: 
+
+---
+
