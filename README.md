@@ -12,3 +12,5 @@ Não vivo sem Café!! :coffee: :heart_eyes:
 
 ---
 
+[![](https://img.shields.io/badge/blog-eebcc1)](https://lauradamacenoalmeida.github.io/)
+[![](https://img.shields.io/badge/linkedin-9ed0d5)](https://www.linkedin.com/in/laura-damaceno/)
