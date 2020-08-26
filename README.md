@@ -1,4 +1,4 @@
-
+![capa](github-page.png)
 ---
 :computer: Estagiando na área de ciência de dados | Cofundadora da comunidade AI Girls :robot: :sparkling_heart: | Organizadora da comunidade DevAI Women :yellow_heart: | Pyladie de coração 
 
