@@ -1,4 +1,4 @@
-![capa](github-page.png)
+[![capa](https://github.com/lauraDamacenoAlmeida/lauraDamacenoAlmeida/blob/master/github-page.png)](https://github.com/lauraDamacenoAlmeida?tab=repositories)
 ---
 :computer: Estagiando na área de ciência de dados | Cofundadora da comunidade AI Girls :robot: :sparkling_heart: | Organizadora da comunidade DevAI Women :yellow_heart: | Pyladie de coração 
 
