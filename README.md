@@ -8,9 +8,12 @@
 
 :star2: Amo GOT (Winter is coming, baby!), star wars :alien: , Space Force, e todas as coisas geeks que você imaginar :joy:! E como uma programadora raiz, não vivo sem café!! :coffee: :heart_eyes: 
 
+[Instagram]()
+
 ---
 
-[![](https://img.shields.io/badge/blog-eebcc1)](https://lauradamacenoalmeida.github.io/)
-[![](https://img.shields.io/badge/linkedin-9ed0d5)](https://www.linkedin.com/in/laura-damaceno/)
+[![](https://img.shields.io/badge/blog-orange)](https://lauradamacenoalmeida.github.io/)
+[![](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/laura-damaceno/)
+[![](https://img.shields.io/badge/instagram-ff69b4)](https://www.instagram.com/laura_damaceno_almeida/)
 ![](https://img.shields.io/github/followers/lauraDamacenoAlmeida?style=social)
 
