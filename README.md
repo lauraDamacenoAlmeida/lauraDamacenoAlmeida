@@ -6,9 +6,7 @@
 
 :cupid: Apaixonada por Inteligência Artificial + Python + Ciência de Dados + Machine Learning
 
-:purple_heart: Amo GOT (Winter is coming, baby!), star wars :alien: , Space Force, e todas as coisas geeks que você imaginar :joy:
-
-Não vivo sem Café!! :coffee: :heart_eyes: 
+:star2: Amo GOT (Winter is coming, baby!), star wars :alien: , Space Force, e todas as coisas geeks que você imaginar :joy:! E como uma programadora raiz, não vivo sem café!! :coffee: :heart_eyes: 
 
 ---
 
