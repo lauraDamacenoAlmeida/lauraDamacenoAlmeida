@@ -1,5 +1,15 @@
 [![capa](https://github.com/lauraDamacenoAlmeida/lauraDamacenoAlmeida/blob/master/github-page.png)](https://github.com/lauraDamacenoAlmeida?tab=repositories)
 ---
+
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauraDamacenoAlmeida&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=lauraDamacenoAlmeida&theme=buefy" /></td>
+    </tr>   
+  </table>
+</center>  
+
 :computer: Estagiando na área de ciência de dados | Cofundadora da comunidade AI Girls :robot: :sparkling_heart: | Organizadora da comunidade DevAI Women :yellow_heart: | Pyladie de coração 
 
 :books: Estudando ciência da computação
