@@ -10,7 +10,7 @@
   </table>
 </center>  
 
-:computer: Estagiando na área de ciência de dados | Cofundadora da comunidade AI Girls :robot: :sparkling_heart: | Organizadora da comunidade DevAI Women :yellow_heart: | Pyladie de coração 
+:computer: Cientista de dados na IBM | Cofundadora da comunidade AI Girls :robot: :sparkling_heart: | Organizadora da comunidade DevAI Women :yellow_heart: | Pyladie de coração 
 
 :books: Estudando ciência da computação
 
