@@ -16,7 +16,7 @@
 
 :cupid: Apaixonada por Inteligência Artificial + Python + Ciência de Dados + Machine Learning
 
-:star2: Amo falar sobre GOT (Winter is coming, baby!), star wars :alien: , Space Force, e senhor dos anéis! 
+:star2: Amo falar sobre GOT, star wars :alien: , Space Force, e senhor dos anéis! 
 
 E como uma programadora raiz, não vivo sem café!! :coffee: :heart_eyes: 
 
