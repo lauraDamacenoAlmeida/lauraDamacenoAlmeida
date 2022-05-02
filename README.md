@@ -10,9 +10,9 @@
   </table>
 </center>  
 
-:computer: Cientista de dados na IBM | Colunista na Female Tech Leaders | Cofundadora da comunidade AI Girls :robot: :sparkling_heart: | Pyladie de coração  :heart:
+:computer: Cientista de dados na IBM | Cofundadora da comunidade AI Girls :robot: :sparkling_heart: | Pyladie de coração  :heart:
 
-:books: Graduada em ciências da computação
+:books: Mestranda em ciências da computação
 
 :cupid: Apaixonada por Inteligência Artificial + Python + Ciência de Dados + Machine Learning
 
@@ -24,7 +24,7 @@ E como uma programadora raiz, não vivo sem café!! :coffee: :heart_eyes:
 
 :computer: Data Scientist at IBM | AI Girls cofounder :robot: :sparkling_heart: | Pyladie :heart:
 
-:books: Future computer scientist
+:books: Master's in Computer Science
 
 :cupid: Passionate about Artificial Intelligence + Python + Data science + Machine Learning
 
