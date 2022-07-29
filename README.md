@@ -12,19 +12,20 @@
 
 :computer: Cientista de dados na IBM | Cofundadora da comunidade AI Girls :robot: :sparkling_heart: | Pyladie de coração  :heart:
 
-:books: Mestranda em ciências da computação
+:books: Mestranda em ciências da computação na UFABC
 
 :cupid: Apaixonada por Inteligência Artificial + Python + Ciência de Dados + Machine Learning
 
 :star2: Amo falar sobre GOT, star wars :alien: , Space Force, e senhor dos anéis! 
 
 E como uma programadora raiz, não vivo sem café!! :coffee: :heart_eyes: 
+Se você quer aprender mais sobre a área de dados e IA me siga nas outras redes sociais: https://beacons.ai/laura_data vai ser um prazer compartilhar meus conhecimentos contigo. Obrigada por se conectar comigo!!
 
 ---
 
 :computer: Data Scientist at IBM | AI Girls cofounder :robot: :sparkling_heart: | Pyladie :heart:
 
-:books: Master's in Computer Science
+:books: Master's in Computer Science at UFABC
 
 :cupid: Passionate about Artificial Intelligence + Python + Data science + Machine Learning
 
