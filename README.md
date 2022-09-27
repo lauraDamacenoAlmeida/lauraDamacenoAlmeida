@@ -10,7 +10,7 @@
   </table>
 </center>  
 
-:computer: Cientista de dados na IBM | Cofundadora da comunidade AI Girls :robot: :sparkling_heart: | Pyladie de coração  :heart:
+:computer: Cientista de dados | Cofundadora da comunidade AI Girls :robot: :sparkling_heart: | Pyladie de coração  :heart:
 
 :books: Mestranda em ciências da computação na UFABC
 
@@ -23,7 +23,7 @@ Se você quer aprender mais sobre a área de dados e IA me siga nas outras redes
 
 ---
 
-:computer: Data Scientist at IBM | AI Girls cofounder :robot: :sparkling_heart: | Pyladie :heart:
+:computer: Data Scientist | AI Girls cofounder :robot: :sparkling_heart: | Pyladie :heart:
 
 :books: Master's in Computer Science at UFABC
 
