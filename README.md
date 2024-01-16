@@ -1,4 +1,4 @@
-[![capa](https://github.com/lauraDamacenoAlmeida/lauraDamacenoAlmeida/blob/master/github-page.png)](https://github.com/lauraDamacenoAlmeida?tab=repositories)
+[![capa](https://github.com/lauraDamacenoAlmeida/lauraDamacenoAlmeida/blob/master/banner-2024.png)](https://github.com/lauraDamacenoAlmeida?tab=repositories)
 ---
 
 <center>
@@ -10,7 +10,7 @@
   </table>
 </center>  
 
-:computer: Cientista de dados | Cofundadora da comunidade AI Girls :robot: :sparkling_heart: | Linkedin Top Voice
+:computer: Cientista de dados | Cofundadora da comunidade AI Girls :robot: :sparkling_heart: | Linkedin Top Voice | Criadora de conteúdo no @laura_data_talks | Podcaster no Databyte Cast
 
 :books: Mestranda em ciências da computação com ênfase em Inteligência Artificial
 
@@ -23,9 +23,9 @@ Se você quer aprender mais sobre a área de dados e IA me siga nas outras redes
 
 ---
 
-:computer: Data Scientist | AI Girls cofounder :robot: :sparkling_heart: | Linkedin Top Voice
+:computer: Data Scientist | AI Girls cofounder :robot: :sparkling_heart: | Linkedin Top Voice | Content Creator at @laura_data_talks | Podcaster at Databyte Cast
 
-:books: Master's in Computer Science at UFABC
+:books: Master's in Computer Science 
 
 :cupid: Passionate about Artificial Intelligence + Python + Data science + Machine Learning
 
