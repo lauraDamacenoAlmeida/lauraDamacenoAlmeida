@@ -10,9 +10,9 @@
   </table>
 </center>  
 
-:computer: Cientista de dados | Cofundadora da comunidade AI Girls :robot: :sparkling_heart: | Pyladie de coração  :heart:
+:computer: Cientista de dados | Cofundadora da comunidade AI Girls :robot: :sparkling_heart: | Linkedin Top Voice
 
-:books: Mestranda em ciências da computação na UFABC
+:books: Mestranda em ciências da computação com ênfase em Inteligência Artificial
 
 :cupid: Apaixonada por Inteligência Artificial + Python + Ciência de Dados + Machine Learning
 
@@ -23,7 +23,7 @@ Se você quer aprender mais sobre a área de dados e IA me siga nas outras redes
 
 ---
 
-:computer: Data Scientist | AI Girls cofounder :robot: :sparkling_heart: | Pyladie :heart:
+:computer: Data Scientist | AI Girls cofounder :robot: :sparkling_heart: | Linkedin Top Voice
 
 :books: Master's in Computer Science at UFABC
 
