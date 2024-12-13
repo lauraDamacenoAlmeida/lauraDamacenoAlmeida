@@ -41,7 +41,7 @@ Se você quer aprender mais sobre a área de dados e IA me siga nas outras redes
 <img src="https://peritoemphp.com/wp-content/uploads/2019/02/letter_c_PNG22.png" height="32" alt="C" />
 
 ---
-[![](https://img.shields.io/badge/blog-orange)](https://lauradamacenoalmeida.github.io/)
+[![](https://img.shields.io/badge/blog-orange)](http://beacons.ai/laura_data)
 [![](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/laura-damaceno/)
 [![](https://img.shields.io/badge/instagram-ff69b4)](https://www.instagram.com/laura_data_talks/)
 ![](https://img.shields.io/github/followers/lauraDamacenoAlmeida?style=social) <img src="http://views.whatilearened.today/views/github/lauraDamacenoAlmeida/views.svg"/>
